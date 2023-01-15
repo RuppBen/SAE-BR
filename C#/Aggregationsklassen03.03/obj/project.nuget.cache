@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVOzNQMPrj6YCISHyZeuIiQveVluboD14cFmnMkpCkP/qzn/2jXw+Yhl7ezsoYbWo/HGOz4Pw/3TEQB5nuPVMw==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/Aggregationsklassen03.03.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.12/microsoft.netcore.app.host.linux-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

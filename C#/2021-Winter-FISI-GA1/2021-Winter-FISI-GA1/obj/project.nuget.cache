@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJkZegR5JUwupQZokkVkguwWsU7YB2lgnN0k8kk+smzqbwE7SQRhUBCx0wEHAHpInBYwITWghpgP7z6OGenC5w==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2021-Winter-FISI-GA1/2021-Winter-FISI-GA1/2021-Winter-FISI-GA1.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

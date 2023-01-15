@@ -1,0 +1,14 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/bin/Debug/netcoreapp3.1/2017SommerSAE-GA1.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.csproj.AssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/obj/Debug/netcoreapp3.1/2017SommerSAE-GA1.genruntimeconfig.cache

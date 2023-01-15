@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqlSfinJpDtHT70/z/5oiqwvcncAY6P0Cisgvtp+I4LsO9zyib/ANLIJK/Wbvcaf4jprBg+5oWRvCiBgW5b5MA==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String27.01.2022/Aufgabe5/Aufgabe5/Aufgabe5.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

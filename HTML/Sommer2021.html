@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        h1{background-color: red; font-family: Arial; font-size: 24pt;}
+        p {background-color: yellow; font-family: Times; font-size: 15pt;}
+        table, th, td {background-color: yellow; border: 1px solid black; font-family: Arial; }
+        div {background-color: yellow;}
+    </style>
+</head>
+<body>
+    <h1>Homeservice</h1>
+
+    <form action="bestellservice.php">
+
+        <p>KundenNr .: <input type="text" id="kundennr" name="KundenNr"></p> 
+
+        <div><!-- Die DIV diet um die felder die kein p oder h1 sind zu färben, wie es auf dem Schaubild vorgegeben ist.-->
+        <table><!--Anlegen der Tabelle mit text inputs-->
+            <tr>
+                <th>Artikel</th><th>Anzahl</th>
+            </tr>
+            <tr>
+                <td><input id="tb0" name="Tabelle0"></input></td><td><input id="tb1" name="Tabelle0"></input></td>
+            </tr>
+            <tr>
+                <td><input id="tb2" name="Tabelle1"></input></td><td><input id="tb3" name="Tabelle1"></input></td>
+            </tr>
+        </table>
+        </div>
+
+        <br> 
+
+        <div><!--ZAhlungsmethode festlegen-->
+        <label for="po">PayOnline</label>
+            <input type="radio" id="po" name="Zahlmethode" value="PayOnline">
+        <label for="kc">Kreditkarte</label>
+            <input type="radio" id="kc" name="Zahlmethode" valu="Kreditkarte">
+        </div>
+
+        <br>
+
+        <div><!--Nutzungsbedingungen annehmen-->
+        <input type="checkbox" id="AGBSgelesen" name="AGBSgelesen">
+            <label for="AGBSgelesen">AGB`s gelesen</label>
+        </div>
+
+        <br>
+ 
+        <div>
+        <input type="submit" value="senden"><nowiki>
+        </div>
+    </form>
+
+</body>

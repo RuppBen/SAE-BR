@@ -1,0 +1,14 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.csproj.AssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/bin/Debug/netcoreapp3.1/2019-Winter-SAE.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2019-Winter-SAE/2019-Winter-SAE/obj/Debug/netcoreapp3.1/2019-Winter-SAE.genruntimeconfig.cache

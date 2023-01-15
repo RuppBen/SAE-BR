@@ -1,0 +1,14 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/bin/Debug/netcoreapp3.1/Schwein.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.csproj.AssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/obj/Debug/netcoreapp3.1/Schwein.genruntimeconfig.cache

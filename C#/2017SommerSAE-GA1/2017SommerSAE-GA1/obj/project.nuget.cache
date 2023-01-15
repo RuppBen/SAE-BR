@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvvj4iF0NhazolCBreJqAwIK82XoGOW+auPHICD/97+S3sl4ea7iwgFMF1F24R/gm5efM9b19Dt7DhmB2tyQ9Q==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2017SommerSAE-GA1/2017SommerSAE-GA1/2017SommerSAE-GA1.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

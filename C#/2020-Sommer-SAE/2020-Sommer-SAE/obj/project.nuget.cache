@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z07xHAfn5blhOs15mdP8iNjTA8TIKjySHZq8yaiiL+nzwdsDk8uL8bHgnd6w/rENYOdBgJzCqMHHUKDkS/qquQ==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2020-Sommer-SAE/2020-Sommer-SAE/2020-Sommer-SAE.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/bin/Debug/netcoreapp3.1/2009-Sommer-SAE.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.csproj.AssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/2009-Sommer-SAE/2009-Sommer-SAE/obj/Debug/netcoreapp3.1/2009-Sommer-SAE.genruntimeconfig.cache

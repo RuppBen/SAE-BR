@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnOAeCW5ClBthuyPbtc2fvYyu8IcxJteAt7VejgmyP21G3Cdb3jDzv57PQQK0GkW/VEeu7n8+526do04a85z1Q==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/C#/Schwein/Schwein/Schwein.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/beni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

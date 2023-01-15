@@ -1,0 +1,11 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/obj/Debug/netcoreapp3.1/27.01Assoziation.csprojAssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/obj/Debug/netcoreapp3.1/27.01Assoziation.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/obj/Debug/netcoreapp3.1/27.01Assoziation.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/bin/Debug/netcoreapp3.1/27.01Assoziation.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/obj/Debug/netcoreapp3.1/27.01Assoziation.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/27.01Assoziation/obj/Debug/netcoreapp3.1/27.01Assoziation.pdb
